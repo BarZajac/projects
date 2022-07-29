@@ -11,7 +11,7 @@ date
 mkdir
 ```
 
-# Terminator
+# Terminator:
 
 Split horizontally `Ctrl+Shift+O`
 
